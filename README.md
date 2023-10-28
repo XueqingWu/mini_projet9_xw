@@ -1,3 +1,5 @@
+[![CI](https://github.com/XueqingWu/mini_projet9_xw/actions/workflows/cicd.yml/badge.svg)](https://github.com/XueqingWu/mini_projet9_xw/actions/workflows/cicd.yml)
+
 # Mini Project Link
 
 ## Purpose
